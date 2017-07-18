@@ -1,6 +1,6 @@
 # Plotting Twin Peaks: The Return
 
-I decided to take the coordinates listed at the bottom of [William Hasting's conspiracy site](http://thesearchforthezone.com/) and run them through the Folium, which uses Python and Leaflet.js maps. 
+I decided to take the coordinates listed at the bottom of [William Hasting's conspiracy site](http://thesearchforthezone.com/) and run them through Folium, which uses Python and Leaflet.js maps. 
 
 To view:
 
