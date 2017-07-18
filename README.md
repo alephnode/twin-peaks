@@ -6,4 +6,6 @@ To view:
 
 - clone the repo
 - open a terminal and run the script `python twinpeaks.py`
+  -  Note: you must run the script in a python environment with folium installed
+- launch tp.html in a web browser
 - enjoy! 
